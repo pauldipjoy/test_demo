@@ -3,3 +3,5 @@ this is first line
 this is second line
 
 this is third commit change
+
+this is one feature
